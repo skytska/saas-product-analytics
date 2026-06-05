@@ -4,7 +4,7 @@
 
 ### Business Context
 
-**Flowdesk Workspace** is a growing **B2B SaaS company** providing a **cloud-based productivity platform** for small businesses and enterprise customers. The company operates on a **subscription-based model**, offering **Basic, Pro, and Enterprise plans** with both monthly and annual billing options.
+**Flowdesk Workspace** is a fictional **B2B SaaS company** providing a **cloud-based productivity platform** for small businesses and enterprise customers. The company operates on a **subscription-based model**, offering **Basic, Pro, and Enterprise plans** with both monthly and annual billing options.
 
 **Revenue growth is driven by recurring subscriptions**, while long-term business success depends on **customer retention, acquisition efficiency, product engagement, and feature adoption**.
 
